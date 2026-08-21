@@ -1,0 +1,16 @@
+[
+  {
+    "id": "novel-1",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=600&auto=format&fit=crop&q=80",
+    "content": "BAB 1: DEKONSTRUKSI PREMIS & HOOK PEMBUKA\n\nPada bab pembuka, J.K. Rowling tidak langsung memperkenalkan Harry Potter sebagai sosok penyihir sakti, melainkan menempatkannya dalam sudut pandang keluarga Dursley yang sangat membenci keajaiban.\n\n***\n\nBAB 2: STRUKTUR WORLD BUILDING TERSEMBUNYI\n\nPengenalan dunia sihir dilakukan secara bertahap (Show, Don't Tell) melalui insiden kebun binatang dan surat-surat yang dikirim oleh burung hantu, memicu rasa penasaran tanpa membebani pembaca dengan istilah yang rumit."
+  },
+  {
+    "id": "novel-2",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&auto=format&fit=crop&q=80",
+    "content": "BAB 1: EKSPOSISI LATAR DAN SHIRE\n\nPembukaan novel ini menggunakan teknik deskripsi pedesaan yang damai untuk menciptakan kontras emosional sebelum ancaman kegelapan Mordor muncul.\n\n***\n\nBAB 2: ARTEFAK PENGGERAK PLOT (THE ONE RING)\n\nCincin Sauron berfungsi sebagai MacGuffin aktif yang memiliki godaan psikologis terhadap siapa pun yang membawanya."
+  }
+]
